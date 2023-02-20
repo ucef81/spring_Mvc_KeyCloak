@@ -20,4 +20,5 @@ keycloak:
   auth-server-url: "http://127.0.0.1:9191/"
   resource: "mi-application-angular"
   public-client: true
+  principal-attribute: name
  
