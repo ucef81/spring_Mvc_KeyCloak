@@ -22,7 +22,7 @@ public class SpringMvcKeyCloakApplication {
 		SpringApplication.run(SpringMvcKeyCloakApplication.class, args);
 	}
 	
-	
+	/*
 	@Bean
 	public CommandLineRunner start() {
 		return args -> {
@@ -33,6 +33,6 @@ public class SpringMvcKeyCloakApplication {
 			productRepository.save(new Product(null, "Acer 800X", 3200.00));
 		};
 	}
-	 
+	 */
 
 }

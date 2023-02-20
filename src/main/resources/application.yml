@@ -13,3 +13,11 @@ spring:
 
 server:
   port: 8282
+  
+
+keycloak:
+  realm: "keycloak-angular"
+  auth-server-url: "http://127.0.0.1:9191/"
+  resource: "mi-application-angular"
+  public-client: true
+ 

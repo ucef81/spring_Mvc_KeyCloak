@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "keycloack.realm",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloack.realm'"
+  },
+  {
+    "name": "keycloack.auth-server-url",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloack.auth-server-url'"
+  },
+  {
+    "name": "keycloack.resource",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloack.resource'"
+  },
+  {
+    "name": "keycloack.public-client",
+    "type": "java.lang.String",
+    "description": "A description for 'keycloack.public-client'"
+  }
+]}
